@@ -12,7 +12,8 @@ Here you will find supplementary material, containing:
 
 Here is a showcase of my work: a plot displaying the participant's performance in various aspects of the Coordination Games.
 
-![Deltas Plots](your-image.png)
+
+<img src="Delta_Plots.png" alt="Deltas Plots" width="600 " height="420">
 
 ### Enjoy!
 
