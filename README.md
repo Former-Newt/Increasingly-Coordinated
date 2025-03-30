@@ -10,7 +10,7 @@ Here you will find supplementary material, containing:
 * Code for preprocessing raw data (not included in this repository for privacy reasons), which also contains trial-level plots and preliminary analyses (Preprocessing.R)
 * Appendices containing additional plots and visualization of most statistical analyses not present in the thesis (Supplementary Material Thesis.docx)
 
-Here is a showcase of my work: a plot displaying the participant's performance in various aspects of the Coordination Games.
+Here is a small showcase of my work: a plot displaying the participants' performance in various aspects of the Coordination Games.
 
 
 <img src="Delta_Plots.png" alt="Deltas Plots" width="600 " height="420">
